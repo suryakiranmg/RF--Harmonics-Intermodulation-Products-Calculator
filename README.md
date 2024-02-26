@@ -1,4 +1,4 @@
-# EE544 : MiniProject-Harmonics-Intermodulation-Products-Calculator
+# EE544 : MiniProject-Harmonics And Intermodulation Products Calculator for Radio Frequency Receivers
 
 The purpose of this mini project is to design a “calculator” of Harmonic and Intermodulation components that are generated due to non-linearities of the Radio-Frequency receiver (Particularly Amplifiers). 
 
